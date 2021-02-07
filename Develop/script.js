@@ -1,6 +1,6 @@
 let current_time = moment().format("HH:mm");
 let current_hour = moment().format("HH");
-//let current_hour = "9";
+//let current_hour = "12";
 
 
 var element = document.querySelectorAll('.fas')
